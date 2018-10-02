@@ -1,0 +1,17 @@
+{
+  "name": "quickstart",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/plaid/quickstart/ruby"
+    }
+  ]
+}
